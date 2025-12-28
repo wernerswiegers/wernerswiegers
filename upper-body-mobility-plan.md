@@ -7,6 +7,7 @@
 - **BMI:** 26.0 (healthy/athletic range)
 - **Cardio:** Cycling and running
 - **Focus:** Arm size, chest, shoulders, mobility
+- **Consideration:** Knee issues - recovery program included
 
 ---
 
@@ -296,6 +297,183 @@ Perform each for 45-60 seconds:
 - Upper back: 2 minutes
 - Lats: 1 minute each
 - Chest (with ball): 1 minute each
+
+---
+
+## Knee Recovery & Mobility Program
+
+*Important: If you have a diagnosed knee condition, consult a physiotherapist before starting.*
+
+### Understanding Knee Issues
+
+Common causes for cyclists/runners at 43:
+- **Tight quads/IT band** pulling on kneecap
+- **Weak glutes/VMO** (inner quad) causing poor tracking
+- **Stiff hips** transferring stress to knees
+- **Overuse** without adequate recovery
+
+### Daily Knee Maintenance (5 minutes)
+
+Do this EVERY morning and before cardio:
+
+| Exercise | Reps/Duration | Purpose |
+|----------|---------------|---------|
+| **Knee Circles** | 10 each direction | Synovial fluid movement |
+| **Heel Slides** | 10 each leg | Gentle ROM |
+| **Quad Sets** | 10 × 5 sec holds | VMO activation |
+| **Straight Leg Raises** | 10 each | Quad strength without load |
+| **Calf Raises** | 15 reps | Ankle stability |
+
+### Knee Strengthening Exercises
+
+**Add to your Rest Days (Sunday) - 15 minutes**
+
+#### Tier 1: Foundation (Weeks 1-4)
+
+| Exercise | Sets | Reps | Notes |
+|----------|------|------|-------|
+| **Wall Sits** | 3 | 20-30 sec | Back flat, knees at 90° max |
+| **Glute Bridges** | 3 | 15 | Squeeze glutes at top |
+| **Clamshells** | 3 | 15 each | Resistance band optional |
+| **Terminal Knee Extensions** | 3 | 15 each | Band around post, extend from 30° |
+| **Step-Downs** (low step) | 3 | 10 each | Control the descent slowly |
+| **Seated Knee Extensions** | 3 | 15 | No weight, focus on VMO squeeze |
+
+#### Tier 2: Progression (Weeks 5-8)
+
+| Exercise | Sets | Reps | Notes |
+|----------|------|------|-------|
+| **Single-Leg Glute Bridge** | 3 | 10 each | Keep hips level |
+| **Bulgarian Split Squat** (shallow) | 3 | 8 each | Only go to comfortable depth |
+| **Side-Lying Leg Raises** | 3 | 15 each | Target glute medius |
+| **Step-Ups** (low step) | 3 | 10 each | Push through heel |
+| **Wall Sits** | 3 | 45 sec | Progress duration |
+| **Banded Walks** | 3 | 15 steps each | Lateral monster walks |
+
+#### Tier 3: Strength (Weeks 9-16)
+
+| Exercise | Sets | Reps | Notes |
+|----------|------|------|-------|
+| **Goblet Squats** | 3 | 12 | Dumbbell, full depth if pain-free |
+| **Romanian Deadlifts** | 3 | 10 | Dumbbell, hamstring focus |
+| **Walking Lunges** | 3 | 10 each | Controlled, knee tracks over toe |
+| **Single-Leg Deadlift** | 3 | 8 each | Balance + hamstring |
+| **Box Squats** | 3 | 10 | Sit back, reduce knee stress |
+| **Nordic Curls** (assisted) | 3 | 5-8 | Hamstring eccentric strength |
+
+### Knee-Specific Stretches
+
+**Hold each for 45-60 seconds, do after every workout and cardio:**
+
+| Stretch | How To | Target |
+|---------|--------|--------|
+| **Quad Stretch** (standing) | Pull heel to glute, keep knees together | Rectus femoris |
+| **Quad Stretch** (lying) | Face down, pull heel to glute | Deep quad stretch |
+| **IT Band Stretch** | Cross leg behind, lean away | IT band release |
+| **Hamstring Stretch** | Foot on low surface, hinge forward | Hamstrings |
+| **Hip Flexor Stretch** | Half-kneeling lunge, squeeze glute | Hip flexors (key for knees!) |
+| **Calf Stretch** | Wall push, heel down | Gastrocnemius |
+| **Soleus Stretch** | Wall push, knee bent | Deep calf |
+| **Figure-4 Stretch** | Ankle on opposite knee, lean forward | Piriformis/glutes |
+| **90/90 Stretch** | Both legs at 90°, rotate torso | Hip internal/external rotation |
+
+### Foam Rolling for Knee Health
+
+**Essential - Do 2-3x per week, especially after cardio:**
+
+| Area | Duration | Technique |
+|------|----------|-----------|
+| **Quads** | 2 min each | Roll full length, pause on tender spots |
+| **IT Band** | 1 min each | Roll from hip to above knee (NOT on knee) |
+| **Hamstrings** | 1 min each | Cross legs for more pressure |
+| **Calves** | 1 min each | Roll slowly, rotate foot in/out |
+| **Glutes** | 1 min each | Sit on roller, cross ankle over knee |
+| **Adductors** | 1 min each | Lie face down, roller along inner thigh |
+
+### Pre-Cardio Knee Prep (Add to your routine)
+
+**Before every cycling or running session (3 minutes):**
+
+1. **Knee Circles** - 10 each direction each leg
+2. **Bodyweight Squats** - 10 slow reps
+3. **Leg Swings** - 10 forward/back each leg
+4. **Walking Lunges** - 5 each leg
+5. **High Knees** - 20 reps (gentle)
+
+### Cardio Modifications for Knee Health
+
+#### Cycling Adjustments
+- **Saddle height:** Knee should have 25-30° bend at bottom
+- **Saddle position:** Knee over pedal spindle when crank is horizontal
+- **Cadence:** Aim for 80-90 RPM (lower gear, faster spin)
+- **Avoid:** Standing climbs until knees improve
+
+#### Running Adjustments
+- **Surface:** Prefer trails/grass over concrete
+- **Shoes:** Get proper running shoes fitted (replace every 500-800km)
+- **Cadence:** Aim for 170-180 steps/min (shorter, quicker steps)
+- **Avoid:** Downhill running, sudden speed increases
+- **Consider:** Replace one run with cycling while recovering
+
+### Weekly Knee Recovery Schedule
+
+| Day | Upper Body | Knee Work |
+|-----|------------|-----------|
+| Mon | Chest & Triceps | Daily maintenance (5 min) |
+| Tue | Cardio | Pre-cardio prep + post-cardio stretches |
+| Wed | Back & Biceps | Daily maintenance (5 min) |
+| Thu | Cardio | Pre-cardio prep + post-cardio stretches |
+| Fri | Shoulders & Arms | Daily maintenance (5 min) |
+| Sat | Long Cardio | Pre-cardio prep + full leg stretches + foam roll |
+| Sun | Rest | **Full knee strengthening (15 min)** + stretches |
+
+### Knee Recovery Checklist
+
+**Daily:**
+- ☐ 5-minute knee maintenance routine
+- ☐ Quad/hip flexor stretch (before bed)
+
+**Before Cardio:**
+- ☐ 3-minute knee prep routine
+- ☐ Bike/shoes properly fitted
+
+**After Cardio:**
+- ☐ Quad stretch (60s each)
+- ☐ Hip flexor stretch (60s each)
+- ☐ IT band stretch (45s each)
+- ☐ Calf stretches (45s each)
+
+**2-3x Per Week:**
+- ☐ Full foam rolling session (legs)
+- ☐ Figure-4 and 90/90 hip stretches
+
+**Sunday:**
+- ☐ Complete knee strengthening routine (15 min)
+- ☐ All leg stretches
+- ☐ Foam rolling if needed
+
+### Warning Signs - Stop and Seek Help
+
+| Symptom | Action |
+|---------|--------|
+| Sharp pain during exercise | Stop immediately, rest, ice |
+| Swelling after activity | Ice, elevate, reduce intensity |
+| Clicking WITH pain | See physiotherapist |
+| Giving way / instability | See physiotherapist |
+| Pain at rest | See doctor |
+| Pain lasting > 2 weeks | See physiotherapist |
+
+**Clicking WITHOUT pain is usually normal and not a concern.**
+
+### Equipment for Knee Health
+
+| Item | Cost | Priority |
+|------|------|----------|
+| Foam roller | ~$20 | Essential |
+| Resistance bands (light/medium) | ~$15 | Essential |
+| Lacrosse ball | ~$5 | Helpful |
+| Knee sleeve (compression) | ~$20-40 | Optional - for support during activity |
+| Ice pack | ~$10 | Keep on hand |
 
 ---
 
