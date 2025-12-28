@@ -369,5 +369,5 @@ Since you have limited weight options, use these methods to progress:
 - Progress photos monthly are more reliable than the scale
 - Consistency beats perfection - just show up!
 
-**Created:** December 2024
+**Created:** December 2025
 **Review Date:** Every 4 weeks
