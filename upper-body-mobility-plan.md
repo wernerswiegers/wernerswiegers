@@ -2,8 +2,50 @@
 
 ## Personal Profile
 - **Age:** 43
+- **Height:** 1.89m (189cm)
+- **Weight:** 93kg
+- **BMI:** 26.0 (healthy/athletic range)
 - **Cardio:** Cycling and running
 - **Focus:** Arm size, chest, shoulders, mobility
+
+---
+
+## Your Personalized Nutrition Targets
+
+### Daily Macros for 93kg
+
+| Nutrient | Daily Target | Per Meal (5 meals) | Notes |
+|----------|--------------|-------------------|-------|
+| **Protein** | 175g | 35g | 1.9g per kg bodyweight |
+| **Carbohydrates** | 350g | 70g | Fuel for training + cardio |
+| **Fat** | 85g | 17g | Hormone health, joint support |
+| **Calories** | 3,100 kcal | 620 kcal | Slight surplus for muscle gain |
+| **Water** | 4 liters | - | More on cardio days |
+
+### Daily Supplements for 93kg
+
+| Supplement | Amount | When | With |
+|------------|--------|------|------|
+| **Creatine Monohydrate** | 5g (1 teaspoon) | Post-workout or morning | Water + carbs |
+| **Whey Protein** | 35-40g (1.5 scoops) | Post-workout | Water or milk |
+| **Vitamin D3** | 3000 IU | With breakfast | Food (fat helps absorption) |
+| **Omega-3 Fish Oil** | 3g (2-3 capsules) | With any meal | Food |
+| **Magnesium** | 400mg | Before bed | Water |
+
+### Your Sample Daily Meal Plan (175g protein)
+
+| Meal | Time | Food | Protein | Carbs | Calories |
+|------|------|------|---------|-------|----------|
+| **Breakfast** | 7:00 | 4 eggs scrambled + 2 toast + avocado | 28g | 40g | 550 |
+| **Snack 1** | 10:00 | Greek yogurt (250g) + handful nuts | 25g | 20g | 350 |
+| **Lunch** | 13:00 | Chicken breast (200g) + rice (150g) + vegetables | 50g | 65g | 650 |
+| **Post-Workout** | 16:30 | Whey shake (1.5 scoops) + banana + oats | 38g | 60g | 450 |
+| **Dinner** | 19:00 | Salmon (180g) + potatoes (200g) + salad | 40g | 50g | 600 |
+| **Evening** | 21:00 | Cottage cheese (200g) + berries | 24g | 15g | 250 |
+| **Creatine** | Post-workout | 5g with shake | - | - | - |
+| **TOTAL** | | | **205g** | **250g** | **2,850** |
+
+*Add extra carbs (rice, bread, fruit) on cardio days to reach 3,100+ kcal*
 
 ## Goals
 - **Build arm size** (biceps, triceps, forearms)
@@ -653,6 +695,691 @@ Creatine is safe, effective, and especially beneficial as we age. It's one of th
 - Curl + Kickback SS 3x12
 - 21s 2x21
 - Dips 3x15-20
+
+---
+
+## 16-Week Day-by-Day Program
+
+### How to Use This Checklist
+
+Each day includes:
+- **Exercise** - Your workout for the day
+- **Nutrition** - Daily food targets (175g protein, 3100 kcal)
+- **Supplements** - Daily supplement checklist
+- **Focus** - Key priority for the day
+
+**Check off (☐ → ☑) as you complete each item.**
+
+---
+
+## PHASE 1: FOUNDATION (Weeks 1-4)
+
+*Focus: Learn movements, establish habits, build base strength*
+*Weights: 5kg primary, 8kg where comfortable*
+
+---
+
+### WEEK 1 - Getting Started
+
+#### Day 1 (Monday) - Chest & Triceps
+
+**Exercise Checklist:**
+- ☐ Warm-up: Arm circles, shoulder rolls, push-up hold (5 min)
+- ☐ Push-Ups: 4 sets × 10-12 reps (60s rest)
+- ☐ Dumbbell Floor Press: 4 sets × 10-12 @ 5kg (60s rest)
+- ☐ Incline Push-Ups (feet elevated): 3 sets × 10-12 (60s rest)
+- ☐ Dumbbell Flyes: 3 sets × 12-15 @ 5kg (60s rest)
+- ☐ Diamond Push-Ups: 3 sets × 8-10 (60s rest)
+- ☐ Overhead Tricep Extension: 3 sets × 12-15 @ 5kg (45s rest)
+- ☐ Tricep Kickbacks: 3 sets × 12-15 @ 3kg (45s rest)
+- ☐ Close-Grip Push-Ups: 2 sets × max reps
+
+**Nutrition Checklist (175g protein target):**
+- ☐ Breakfast: 4 eggs + 2 toast + avocado (28g protein)
+- ☐ Snack: Greek yogurt 250g + nuts (25g protein)
+- ☐ Lunch: Chicken 200g + rice 150g + veg (50g protein)
+- ☐ Post-workout shake: 1.5 scoops whey + banana (38g protein)
+- ☐ Dinner: Fish/meat 180g + potatoes + salad (40g protein)
+- ☐ Evening: Cottage cheese 200g (24g protein)
+- ☐ Water: 4 liters throughout day
+
+**Supplements:**
+- ☐ Creatine: 5g with post-workout shake
+- ☐ Vitamin D3: 3000 IU with breakfast
+- ☐ Fish Oil: 3g with lunch
+- ☐ Magnesium: 400mg before bed
+
+**Today's Focus:** Learn proper push-up form. Quality over quantity.
+
+---
+
+#### Day 2 (Tuesday) - Cardio + Mobility
+
+**Exercise Checklist:**
+- ☐ Cycling OR Running: 30-45 minutes moderate pace
+- ☐ Evening Mobility (10 min):
+  - ☐ Neck circles (1 min)
+  - ☐ Shoulder circles (1 min)
+  - ☐ Arm crossovers (1 min)
+  - ☐ Thread the needle (1 min each side)
+  - ☐ Cat-cow (2 min)
+  - ☐ Doorway chest stretch (1 min each side)
+
+**Nutrition Checklist (175g protein target):**
+- ☐ Breakfast: 4 eggs + 2 toast + avocado (28g protein)
+- ☐ Snack: Greek yogurt 250g + nuts (25g protein)
+- ☐ Lunch: Chicken 200g + rice 150g + veg (50g protein)
+- ☐ Pre-cardio snack: Banana + handful nuts
+- ☐ Post-cardio: Whey shake 1 scoop (25g protein)
+- ☐ Dinner: Salmon 180g + potatoes + veg (40g protein)
+- ☐ Evening: Cottage cheese 150g (18g protein)
+- ☐ Extra carbs today: +200 kcal (extra rice/bread/fruit)
+- ☐ Water: 4.5 liters (extra for cardio)
+
+**Supplements:**
+- ☐ Creatine: 5g with breakfast (no workout today)
+- ☐ Vitamin D3: 3000 IU with breakfast
+- ☐ Fish Oil: 3g with lunch
+- ☐ Magnesium: 400mg before bed
+
+**Today's Focus:** Active recovery. Don't push too hard on cardio - save energy for tomorrow.
+
+---
+
+#### Day 3 (Wednesday) - Back & Biceps
+
+**Exercise Checklist:**
+- ☐ Warm-up: Arm swings, cat-cow, band pulls (5 min)
+- ☐ Bent-Over Rows: 4 sets × 10-12 @ 5kg each (60s rest)
+- ☐ Single-Arm Rows: 3 sets × 12 each @ 5kg (45s rest)
+- ☐ Reverse Flyes: 3 sets × 15 @ 3kg (45s rest)
+- ☐ Superman Holds: 3 sets × 20 seconds (45s rest)
+- ☐ Bicep Curls: 4 sets × 12-15 @ 5kg (45s rest)
+- ☐ Hammer Curls: 3 sets × 12-15 @ 5kg (45s rest)
+- ☐ Concentration Curls: 3 sets × 12 each @ 3kg (45s rest)
+- ☐ Incline Curls (floor): 3 sets × 12-15 @ 3kg (45s rest)
+
+**Nutrition Checklist (175g protein target):**
+- ☐ Breakfast: 4 eggs + 2 toast + avocado (28g protein)
+- ☐ Snack: Greek yogurt 250g + nuts (25g protein)
+- ☐ Lunch: Chicken 200g + rice 150g + veg (50g protein)
+- ☐ Post-workout shake: 1.5 scoops whey + banana (38g protein)
+- ☐ Dinner: Beef/fish 180g + potatoes + salad (40g protein)
+- ☐ Evening: Cottage cheese 200g (24g protein)
+- ☐ Water: 4 liters throughout day
+
+**Supplements:**
+- ☐ Creatine: 5g with post-workout shake
+- ☐ Vitamin D3: 3000 IU with breakfast
+- ☐ Fish Oil: 3g with lunch
+- ☐ Magnesium: 400mg before bed
+
+**Today's Focus:** Squeeze shoulder blades on every row. Feel your biceps work.
+
+---
+
+#### Day 4 (Thursday) - Cardio + Mobility
+
+**Exercise Checklist:**
+- ☐ Cycling OR Running: 30-45 minutes moderate pace
+- ☐ Evening Mobility (10 min):
+  - ☐ Neck circles (1 min)
+  - ☐ Shoulder circles (1 min)
+  - ☐ Arm crossovers (1 min)
+  - ☐ Thread the needle (1 min each side)
+  - ☐ Cat-cow (2 min)
+  - ☐ Doorway chest stretch (1 min each side)
+
+**Nutrition Checklist (175g protein target):**
+- ☐ Breakfast: 4 eggs + 2 toast + avocado (28g protein)
+- ☐ Snack: Greek yogurt 250g + nuts (25g protein)
+- ☐ Lunch: Chicken 200g + rice 150g + veg (50g protein)
+- ☐ Pre-cardio snack: Banana + handful nuts
+- ☐ Post-cardio: Whey shake 1 scoop (25g protein)
+- ☐ Dinner: Fish 180g + rice + veg (40g protein)
+- ☐ Evening: Cottage cheese 150g (18g protein)
+- ☐ Extra carbs today: +200 kcal
+- ☐ Water: 4.5 liters
+
+**Supplements:**
+- ☐ Creatine: 5g with breakfast
+- ☐ Vitamin D3: 3000 IU with breakfast
+- ☐ Fish Oil: 3g with lunch
+- ☐ Magnesium: 400mg before bed
+
+**Today's Focus:** Stretch your chest and shoulders - they worked hard this week.
+
+---
+
+#### Day 5 (Friday) - Shoulders & Arms
+
+**Exercise Checklist:**
+- ☐ Warm-up: Arm circles, wall slides, light lateral raises (5 min)
+- ☐ Shoulder Press: 4 sets × 10-12 @ 5kg (60s rest)
+- ☐ Lateral Raises: 4 sets × 15 @ 3kg (45s rest)
+- ☐ Front Raises: 3 sets × 12 each @ 3kg (45s rest)
+- ☐ Bent-Over Reverse Flyes: 3 sets × 15 @ 3kg (45s rest)
+- ☐ Arnold Press: 3 sets × 10-12 @ 5kg (60s rest)
+- ☐ Superset - Curls + Kickbacks: 3 sets × 12 each @ 3kg (60s rest)
+- ☐ 21s Bicep Curls: 2 sets × 21 @ 3kg (90s rest)
+- ☐ Chair Dips: 3 sets × 12-15 (60s rest)
+
+**Nutrition Checklist (175g protein target):**
+- ☐ Breakfast: 4 eggs + 2 toast + avocado (28g protein)
+- ☐ Snack: Greek yogurt 250g + nuts (25g protein)
+- ☐ Lunch: Chicken 200g + rice 150g + veg (50g protein)
+- ☐ Post-workout shake: 1.5 scoops whey + banana (38g protein)
+- ☐ Dinner: Steak/salmon 180g + potatoes + salad (40g protein)
+- ☐ Evening: Cottage cheese 200g (24g protein)
+- ☐ Water: 4 liters throughout day
+
+**Supplements:**
+- ☐ Creatine: 5g with post-workout shake
+- ☐ Vitamin D3: 3000 IU with breakfast
+- ☐ Fish Oil: 3g with lunch
+- ☐ Magnesium: 400mg before bed
+
+**Today's Focus:** Arm pump day! Slow negatives on curls (3 seconds down).
+
+---
+
+#### Day 6 (Saturday) - Long Cardio + Full Mobility
+
+**Exercise Checklist:**
+- ☐ Long Cycling OR Running: 60-90 minutes easy pace
+- ☐ Full Mobility Session (25-30 min):
+  - ☐ Neck side stretch (30s each)
+  - ☐ Upper trap stretch (30s each)
+  - ☐ Doorway chest stretch (45s each)
+  - ☐ Corner stretch (60s)
+  - ☐ Lat stretch kneeling (45s each)
+  - ☐ Tricep stretch (30s each)
+  - ☐ Bicep wall stretch (30s each)
+  - ☐ Thread the needle (10 each side)
+  - ☐ Open books (10 each side)
+  - ☐ Cat-cow (15 reps)
+  - ☐ Puppy pose (60s)
+  - ☐ Wall angels (15 reps)
+
+**Nutrition Checklist (175g protein + extra carbs):**
+- ☐ Breakfast: 4 eggs + 3 toast + avocado (30g protein)
+- ☐ Pre-ride snack: Banana + oats
+- ☐ During ride: Water + electrolytes
+- ☐ Post-ride: Whey shake + large banana + oats (35g protein)
+- ☐ Lunch: Chicken 200g + pasta 200g + veg (50g protein)
+- ☐ Dinner: Fish 180g + rice + veg (40g protein)
+- ☐ Evening: Greek yogurt 200g (20g protein)
+- ☐ Extra carbs today: +400 kcal (fuel the long session)
+- ☐ Water: 5 liters
+
+**Supplements:**
+- ☐ Creatine: 5g with post-ride shake
+- ☐ Vitamin D3: 3000 IU with breakfast
+- ☐ Fish Oil: 3g with lunch
+- ☐ Magnesium: 400mg before bed
+
+**Today's Focus:** Enjoy the long cardio. Full mobility after = faster recovery.
+
+---
+
+#### Day 7 (Sunday) - Rest & Recovery
+
+**Exercise Checklist:**
+- ☐ Complete rest from training
+- ☐ Optional: 20-30 min easy walk
+- ☐ Light stretching if desired
+
+**Nutrition Checklist (175g protein - maintenance):**
+- ☐ Breakfast: 4 eggs + 2 toast + avocado (28g protein)
+- ☐ Snack: Greek yogurt 250g + nuts (25g protein)
+- ☐ Lunch: Chicken/fish 180g + rice + veg (45g protein)
+- ☐ Afternoon: Fruit + handful nuts
+- ☐ Dinner: Beef/salmon 180g + potatoes + salad (40g protein)
+- ☐ Evening: Cottage cheese 200g (24g protein)
+- ☐ Water: 3.5 liters
+
+**Supplements:**
+- ☐ Creatine: 5g with breakfast
+- ☐ Vitamin D3: 3000 IU with breakfast
+- ☐ Fish Oil: 3g with lunch
+- ☐ Magnesium: 400mg before bed
+
+**Today's Focus:** REST. Sleep 8+ hours tonight. Muscles grow during rest.
+
+---
+
+### WEEK 1 SUMMARY
+
+| Day | Workout | Protein Target | Completed |
+|-----|---------|----------------|-----------|
+| Mon | Chest & Triceps | 175g | ☐ |
+| Tue | Cardio + Mobility | 175g | ☐ |
+| Wed | Back & Biceps | 175g | ☐ |
+| Thu | Cardio + Mobility | 175g | ☐ |
+| Fri | Shoulders & Arms | 175g | ☐ |
+| Sat | Long Cardio + Full Mobility | 175g + carbs | ☐ |
+| Sun | Rest | 175g | ☐ |
+
+**Week 1 Checklist:**
+- ☐ Completed all 3 upper body workouts
+- ☐ Completed 3 cardio sessions
+- ☐ Hit protein target 7/7 days
+- ☐ Took creatine daily
+- ☐ Took all supplements daily
+- ☐ Drank 4+ liters water daily
+- ☐ Slept 7+ hours each night
+
+---
+
+### WEEK 2 - Building Consistency
+
+*Same structure as Week 1. Focus on improving form and adding 1-2 reps per set where possible.*
+
+#### Day 8-14: Repeat Week 1 Pattern
+
+**Key Changes for Week 2:**
+- Try to add 1-2 reps to each exercise
+- Move to 8kg on Floor Press if 5kg feels easy
+- Move to 5kg on Lateral Raises if 3kg feels too light
+- Focus on slower negatives (3 seconds down)
+
+**Week 2 Checklist:**
+- ☐ Day 8 (Mon): Chest & Triceps - try 8kg floor press
+- ☐ Day 9 (Tue): Cardio + Mobility
+- ☐ Day 10 (Wed): Back & Biceps - try 8kg rows
+- ☐ Day 11 (Thu): Cardio + Mobility
+- ☐ Day 12 (Fri): Shoulders & Arms - try 5kg laterals
+- ☐ Day 13 (Sat): Long Cardio + Full Mobility
+- ☐ Day 14 (Sun): Rest
+
+---
+
+### WEEK 3 - Pushing Harder
+
+*Increase weights where possible. You should be less sore now.*
+
+#### Day 15-21: Progressive Overload
+
+**Key Changes for Week 3:**
+- Use 8kg for all main pressing movements
+- Use 5kg for all isolation movements
+- Add 1 extra set to Push-Ups and Rows
+- Increase push-up reps to 12-15
+
+**Week 3 Checklist:**
+- ☐ Day 15 (Mon): Chest & Triceps @ 8kg main lifts
+- ☐ Day 16 (Tue): Cardio + Mobility
+- ☐ Day 17 (Wed): Back & Biceps @ 8kg rows and curls
+- ☐ Day 18 (Thu): Cardio + Mobility
+- ☐ Day 19 (Fri): Shoulders & Arms @ 8kg presses
+- ☐ Day 20 (Sat): Long Cardio + Full Mobility
+- ☐ Day 21 (Sun): Rest
+
+---
+
+### WEEK 4 - Foundation Complete
+
+*Test week - see how far you've come!*
+
+#### Day 22-28: Test & Assess
+
+**Key Changes for Week 4:**
+- Max push-up test on Monday (record number)
+- All exercises at 8kg where possible
+- Reduce rest periods to 45-50 seconds
+
+**Week 4 Checklist:**
+- ☐ Day 22 (Mon): Chest & Triceps + MAX PUSH-UP TEST: _____ reps
+- ☐ Day 23 (Tue): Cardio + Mobility
+- ☐ Day 24 (Wed): Back & Biceps + MAX CURL TEST @ 8kg: _____ reps
+- ☐ Day 25 (Thu): Cardio + Mobility
+- ☐ Day 26 (Fri): Shoulders & Arms + MAX DIP TEST: _____ reps
+- ☐ Day 27 (Sat): Long Cardio + Full Mobility
+- ☐ Day 28 (Sun): Rest + PROGRESS PHOTOS
+
+**End of Phase 1 Assessment:**
+- ☐ Push-ups increased from Week 1: _____ → _____
+- ☐ Curls weight/reps: _____ → _____
+- ☐ Dips reps: _____ → _____
+- ☐ Bodyweight: _____ kg
+- ☐ Progress photos taken
+
+---
+
+## PHASE 2: VOLUME (Weeks 5-8)
+
+*Focus: Increase training volume, add sets, use 8kg for everything*
+*Equipment needed: Consider buying heavier dumbbells now!*
+
+---
+
+### WEEK 5 - Volume Begins
+
+#### Day 29 (Monday) - Chest & Triceps (Volume)
+
+**Exercise Checklist:**
+- ☐ Warm-up (5 min)
+- ☐ Push-Ups: **5 sets** × 15 reps (50s rest)
+- ☐ Dumbbell Floor Press: **5 sets** × 10-12 @ 8kg (50s rest)
+- ☐ Incline Push-Ups: **4 sets** × 12-15 (50s rest)
+- ☐ Dumbbell Flyes: **4 sets** × 12-15 @ 5kg (50s rest)
+- ☐ Diamond Push-Ups: **4 sets** × 10-12 (50s rest)
+- ☐ Overhead Tricep Extension: **4 sets** × 12-15 @ 8kg (40s rest)
+- ☐ Tricep Kickbacks: **4 sets** × 12-15 @ 5kg (40s rest)
+- ☐ Close-Grip Push-Ups: 3 sets × max reps
+
+*Note: 1 extra set on each exercise, shorter rest periods*
+
+**Nutrition & Supplements:** Same as Week 1-4
+
+---
+
+#### Day 30-35: Continue Volume Pattern
+
+**Week 5 Changes:**
+- Add 1 set to every exercise
+- Reduce rest to 50 seconds (main lifts) / 40 seconds (isolation)
+- All weights at 8kg (use 5kg only for flyes and lateral raises)
+
+**Week 5 Checklist:**
+- ☐ Day 29 (Mon): Chest & Triceps (Volume)
+- ☐ Day 30 (Tue): Cardio + Mobility
+- ☐ Day 31 (Wed): Back & Biceps (Volume)
+- ☐ Day 32 (Thu): Cardio + Mobility
+- ☐ Day 33 (Fri): Shoulders & Arms (Volume)
+- ☐ Day 34 (Sat): Long Cardio + Full Mobility
+- ☐ Day 35 (Sun): Rest
+
+---
+
+### WEEK 6-8: Volume Continues
+
+**Week 6 Checklist (Days 36-42):**
+- ☐ All workouts completed with extra volume
+- ☐ Consider ordering heavier dumbbells (10-12kg)
+- ☐ Protein: 175g daily
+- ☐ Creatine: 5g daily
+
+**Week 7 Checklist (Days 43-49):**
+- ☐ If new dumbbells arrived, start using them
+- ☐ Push-ups should be 20+ reps per set now
+- ☐ Dips should be 15+ reps per set now
+
+**Week 8 Checklist (Days 50-56):**
+- ☐ Day 50 (Mon): MAX PUSH-UP TEST: _____ reps
+- ☐ Day 52 (Wed): MAX CURL TEST: _____ reps
+- ☐ Day 54 (Fri): MAX DIP TEST: _____ reps
+- ☐ Day 56 (Sun): PROGRESS PHOTOS + measurements
+
+**End of Phase 2 Assessment:**
+- ☐ Push-ups: Week 4 _____ → Week 8 _____
+- ☐ Curls: _____ → _____
+- ☐ Dips: _____ → _____
+- ☐ Bodyweight: _____ kg
+- ☐ Arm measurement: _____ cm
+- ☐ Chest measurement: _____ cm
+
+---
+
+## PHASE 3: INTENSITY (Weeks 9-12)
+
+*Focus: Intensity techniques - drop sets, pause reps, slow negatives*
+*Equipment needed: Heavier dumbbells (12-16kg) highly recommended*
+
+---
+
+### WEEK 9 - Intensity Techniques Begin
+
+#### Day 57 (Monday) - Chest & Triceps (Intensity)
+
+**Exercise Checklist:**
+- ☐ Warm-up (5 min)
+- ☐ Push-Ups: 4 sets × 15-20 reps, **last set = max reps**
+- ☐ Dumbbell Floor Press: 4 sets × 10-12 @ 8kg, **last set = DROP SET** (8kg → 5kg → 3kg)
+- ☐ Incline Push-Ups: 3 sets × 15 reps, **2 second pause at bottom**
+- ☐ Dumbbell Flyes: 3 sets × 12-15 @ 5kg, **4 second negative**
+- ☐ Diamond Push-Ups: 3 sets × max reps
+- ☐ Overhead Tricep Extension: 3 sets × 12-15, **last set = DROP SET**
+- ☐ Tricep Kickbacks: 3 sets × 15, **slow negative**
+- ☐ Close-Grip Push-Ups: 3 sets × max, **2 second pause at bottom**
+
+**Intensity Techniques Explained:**
+- **Drop Set:** Complete set, immediately reduce weight, continue to failure
+- **Pause Rep:** 2 second hold at hardest point
+- **Slow Negative:** 4 seconds lowering the weight
+
+---
+
+### WEEKS 9-12 Checklists
+
+**Week 9 (Days 57-63):**
+- ☐ Mon: Chest & Triceps with drop sets
+- ☐ Tue: Cardio + Mobility
+- ☐ Wed: Back & Biceps with slow negatives
+- ☐ Thu: Cardio + Mobility
+- ☐ Fri: Shoulders & Arms with pause reps
+- ☐ Sat: Long Cardio + Full Mobility
+- ☐ Sun: Rest
+
+**Week 10 (Days 64-70):**
+- ☐ Add **supersets** to arm exercises
+- ☐ Example: Curls immediately into Kickbacks, no rest
+- ☐ All workouts include at least one intensity technique
+
+**Week 11 (Days 71-77):**
+- ☐ Combine multiple intensity techniques
+- ☐ Example: Slow negative DROP SET
+- ☐ Push-ups should be 25+ reps per set
+
+**Week 12 (Days 78-84):**
+- ☐ Day 78 (Mon): MAX PUSH-UP TEST: _____ reps
+- ☐ Day 80 (Wed): MAX CURL TEST @ heaviest weight: _____ reps
+- ☐ Day 82 (Fri): MAX DIP TEST: _____ reps
+- ☐ Day 84 (Sun): PROGRESS PHOTOS + all measurements
+
+**End of Phase 3 Assessment:**
+- ☐ Push-ups: Week 1 _____ → Week 12 _____
+- ☐ Curls: _____ → _____
+- ☐ Dips: _____ → _____
+- ☐ Bodyweight: _____ kg
+- ☐ Arm measurement: _____ cm (change: _____)
+- ☐ Chest measurement: _____ cm (change: _____)
+
+---
+
+## PHASE 4: ADVANCED (Weeks 13-16)
+
+*Focus: Advanced techniques, heavier weights, peak performance*
+*Equipment needed: Full set of dumbbells up to 20kg+ recommended*
+
+---
+
+### WEEK 13-16 Overview
+
+**Advanced Techniques to Implement:**
+1. **Pre-exhaust:** Isolation before compound (flyes before press)
+2. **Rest-pause:** Set to failure, rest 10s, continue to failure
+3. **Mechanical drop sets:** Decline push-up → Regular → Incline (easier)
+4. **Giant sets:** 3-4 exercises back-to-back, no rest
+
+---
+
+### Week 13 (Days 85-91)
+
+**Monday - Chest & Triceps (Pre-Exhaust):**
+- ☐ Dumbbell Flyes FIRST: 3 sets × 15 (pre-exhaust chest)
+- ☐ Immediately into Floor Press: 4 sets × 10-12
+- ☐ Push-Up Mechanical Drop Set: Decline → Regular → Incline (no rest)
+- ☐ Tricep Giant Set: OH Extension → Kickbacks → Diamond Push-ups (no rest)
+- ☐ Complete remaining exercises
+
+**Week 13 Checklist:**
+- ☐ All 3 upper body workouts with pre-exhaust
+- ☐ All 3 cardio sessions completed
+- ☐ Protein 175g daily
+- ☐ Creatine 5g daily
+
+---
+
+### Week 14 (Days 92-98)
+
+**Focus: Rest-Pause Sets**
+
+**How to do Rest-Pause:**
+1. Perform set to failure
+2. Rest exactly 10-15 seconds
+3. Perform more reps to failure
+4. Rest 10-15 seconds
+5. Perform final reps to failure
+
+**Week 14 Checklist:**
+- ☐ Add rest-pause to final set of each exercise
+- ☐ Track total reps achieved with rest-pause
+- ☐ All nutrition and supplements on point
+
+---
+
+### Week 15 (Days 99-105)
+
+**Focus: Giant Sets**
+
+**Example Chest Giant Set (no rest between):**
+1. Push-ups × 15
+2. Floor Press × 12
+3. Flyes × 15
+4. Diamond Push-ups × 10
+5. REST 2 minutes, repeat 3 times
+
+**Week 15 Checklist:**
+- ☐ Create giant sets for each workout
+- ☐ Minimal rest = maximum pump
+- ☐ Stay hydrated (extra 500ml water)
+
+---
+
+### Week 16 (Days 106-112) - FINAL WEEK
+
+#### Day 106 (Monday) - Final Chest & Triceps Test
+
+**MAX TESTS:**
+- ☐ Push-ups max reps: _____ (Goal: 40+)
+- ☐ Floor Press @ heaviest dumbbell × max reps: _____
+- ☐ Diamond Push-ups max reps: _____
+- ☐ Dips max reps: _____ (Goal: 25+)
+
+---
+
+#### Day 108 (Wednesday) - Final Back & Biceps Test
+
+**MAX TESTS:**
+- ☐ Rows @ heaviest weight × max reps: _____
+- ☐ Curls @ heaviest weight × max reps: _____
+- ☐ Hammer Curls @ heaviest weight × max reps: _____
+
+---
+
+#### Day 110 (Friday) - Final Shoulders & Arms Test
+
+**MAX TESTS:**
+- ☐ Shoulder Press @ heaviest weight × max reps: _____
+- ☐ Lateral Raises @ heaviest weight × max reps: _____
+- ☐ 21s with heaviest possible weight: _____
+
+---
+
+#### Day 112 (Sunday) - Final Assessment Day
+
+**FINAL MEASUREMENTS:**
+
+| Measurement | Week 1 | Week 16 | Change |
+|-------------|--------|---------|--------|
+| Bodyweight | 93 kg | _____ kg | _____ |
+| Left Arm (flexed) | _____ cm | _____ cm | _____ |
+| Right Arm (flexed) | _____ cm | _____ cm | _____ |
+| Chest (at nipple line) | _____ cm | _____ cm | _____ |
+| Shoulders (widest point) | _____ cm | _____ cm | _____ |
+
+**FINAL STRENGTH TESTS:**
+
+| Exercise | Week 1 | Week 16 | Improvement |
+|----------|--------|---------|-------------|
+| Push-ups (max) | _____ | _____ | +_____ |
+| Floor Press (weight × reps) | _____ | _____ | _____ |
+| Bicep Curls (weight × reps) | _____ | _____ | _____ |
+| Dips (max) | _____ | _____ | +_____ |
+
+**16-WEEK CHECKLIST COMPLETE:**
+- ☐ Completed 48 upper body workouts
+- ☐ Completed 48 cardio sessions
+- ☐ Hit protein target 100+ days
+- ☐ Took creatine 112 days straight
+- ☐ Took progress photos at weeks 1, 4, 8, 12, 16
+- ☐ Measurements improved
+- ☐ Strength improved
+- ☐ LOOKING AND FEELING BETTER!
+
+---
+
+## 16-Week Quick Reference Calendar
+
+### Phase 1: Foundation (Weeks 1-4)
+
+| Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|------|-----|-----|-----|-----|-----|-----|-----|
+| 1 | Chest/Tri | Cardio | Back/Bi | Cardio | Shoulders | Long Cardio | Rest |
+| 2 | Chest/Tri | Cardio | Back/Bi | Cardio | Shoulders | Long Cardio | Rest |
+| 3 | Chest/Tri | Cardio | Back/Bi | Cardio | Shoulders | Long Cardio | Rest |
+| 4 | TEST | Cardio | TEST | Cardio | TEST | Long Cardio | PHOTOS |
+
+### Phase 2: Volume (Weeks 5-8)
+
+| Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|------|-----|-----|-----|-----|-----|-----|-----|
+| 5 | Chest/Tri+ | Cardio | Back/Bi+ | Cardio | Shoulders+ | Long Cardio | Rest |
+| 6 | Chest/Tri+ | Cardio | Back/Bi+ | Cardio | Shoulders+ | Long Cardio | Rest |
+| 7 | Chest/Tri+ | Cardio | Back/Bi+ | Cardio | Shoulders+ | Long Cardio | Rest |
+| 8 | TEST | Cardio | TEST | Cardio | TEST | Long Cardio | PHOTOS |
+
+### Phase 3: Intensity (Weeks 9-12)
+
+| Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|------|-----|-----|-----|-----|-----|-----|-----|
+| 9 | Drop Sets | Cardio | Slow Neg | Cardio | Pause Reps | Long Cardio | Rest |
+| 10 | Supersets | Cardio | Supersets | Cardio | Supersets | Long Cardio | Rest |
+| 11 | Combined | Cardio | Combined | Cardio | Combined | Long Cardio | Rest |
+| 12 | TEST | Cardio | TEST | Cardio | TEST | Long Cardio | PHOTOS |
+
+### Phase 4: Advanced (Weeks 13-16)
+
+| Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|------|-----|-----|-----|-----|-----|-----|-----|
+| 13 | Pre-exhaust | Cardio | Pre-exhaust | Cardio | Pre-exhaust | Long Cardio | Rest |
+| 14 | Rest-Pause | Cardio | Rest-Pause | Cardio | Rest-Pause | Long Cardio | Rest |
+| 15 | Giant Sets | Cardio | Giant Sets | Cardio | Giant Sets | Long Cardio | Rest |
+| 16 | FINAL TEST | Cardio | FINAL TEST | Cardio | FINAL TEST | Long Cardio | FINAL |
+
+---
+
+## Daily Nutrition Quick Reference (93kg)
+
+**Every Single Day:**
+
+| Meal | What | Protein |
+|------|------|---------|
+| Breakfast | 4 eggs + 2 toast + avocado | 28g |
+| Snack | Greek yogurt 250g + nuts | 25g |
+| Lunch | Chicken/fish 200g + rice/potato + veg | 50g |
+| Post-workout/Afternoon | Whey shake 1.5 scoops + banana | 38g |
+| Dinner | Meat/fish 180g + carbs + veg | 40g |
+| Evening | Cottage cheese 200g | 24g |
+| **TOTAL** | | **205g** |
+
+**Every Single Day - Supplements:**
+- ☐ Creatine: 5g
+- ☐ Vitamin D3: 3000 IU
+- ☐ Fish Oil: 3g
+- ☐ Magnesium: 400mg
+- ☐ Water: 4+ liters
 
 ---
 
