@@ -121,13 +121,13 @@ You can absolutely build significant muscle at 43. Research shows muscle growth 
 
 | Day | Focus | Notes |
 |-----|-------|-------|
-| Monday | Upper Body A (Chest & Triceps) | |
+| Monday | Upper Body A (Chest & Triceps) | + Daily knee maintenance |
 | Tuesday | Cardio (Cycling/Running) | Light mobility in evening |
-| Wednesday | Upper Body B (Back & Biceps) | |
+| Wednesday | Upper Body B (Back & Biceps) | + Daily knee maintenance |
 | Thursday | Cardio (Cycling/Running) | Light mobility in evening |
-| Friday | Upper Body C (Shoulders & Arms) | |
-| Saturday | Cardio (Long run/ride) | Full mobility session |
-| Sunday | Rest & Mobility | Active recovery |
+| Friday | Upper Body C (Shoulders & Arms) | + Daily knee maintenance |
+| Saturday | Cardio (Long run/ride) | Full mobility + **Knee Strengthening** |
+| Sunday | **Complete Rest** | No exercise - recovery day |
 
 ---
 
@@ -424,8 +424,8 @@ Do this EVERY morning and before cardio:
 | Wed | Back & Biceps | Daily maintenance (5 min) |
 | Thu | Cardio | Pre-cardio prep + post-cardio stretches |
 | Fri | Shoulders & Arms | Daily maintenance (5 min) |
-| Sat | Long Cardio | Pre-cardio prep + full leg stretches + foam roll |
-| Sun | Rest | **Full knee strengthening (15 min)** + stretches |
+| Sat | Long Cardio | Pre-cardio prep + **Full knee strengthening (15 min)** + stretches + foam roll |
+| Sun | **Complete Rest** | No exercise |
 
 ### Knee Recovery Checklist
 
@@ -447,10 +447,13 @@ Do this EVERY morning and before cardio:
 - ☐ Full foam rolling session (legs)
 - ☐ Figure-4 and 90/90 hip stretches
 
-**Sunday:**
+**Saturday (after long cardio):**
 - ☐ Complete knee strengthening routine (15 min)
 - ☐ All leg stretches
-- ☐ Foam rolling if needed
+- ☐ Full foam rolling session
+
+**Sunday:**
+- ☐ Complete rest - no exercise
 
 ### Warning Signs - Stop and Seek Help
 
@@ -1058,10 +1061,17 @@ Each day includes:
 
 ---
 
-#### Day 6 (Saturday) - Long Cardio + Full Mobility
+#### Day 6 (Saturday) - Long Cardio + Full Mobility + Knee Strengthening
 
 **Exercise Checklist:**
 - ☐ Long Cycling OR Running: 60-90 minutes easy pace
+- ☐ Knee Strengthening (15 min) - Do after cardio:
+  - ☐ Wall Sits: 3 × 20-30 sec
+  - ☐ Glute Bridges: 3 × 15
+  - ☐ Clamshells: 3 × 15 each
+  - ☐ Terminal Knee Extensions: 3 × 15 each
+  - ☐ Step-Downs: 3 × 10 each
+  - ☐ Seated Knee Extensions: 3 × 15
 - ☐ Full Mobility Session (25-30 min):
   - ☐ Neck side stretch (30s each)
   - ☐ Upper trap stretch (30s each)
@@ -1075,6 +1085,17 @@ Each day includes:
   - ☐ Cat-cow (15 reps)
   - ☐ Puppy pose (60s)
   - ☐ Wall angels (15 reps)
+- ☐ Leg Stretches (for knees):
+  - ☐ Quad stretch (60s each)
+  - ☐ Hip flexor stretch (60s each)
+  - ☐ IT band stretch (45s each)
+  - ☐ Hamstring stretch (45s each)
+  - ☐ Calf stretches (45s each)
+- ☐ Foam Rolling (legs):
+  - ☐ Quads (2 min each)
+  - ☐ IT band (1 min each)
+  - ☐ Hamstrings (1 min each)
+  - ☐ Calves (1 min each)
 
 **Nutrition Checklist (205g protein + extra carbs for long cardio):**
 - ☐ 5:30 Breakfast: 4 eggs + 3 toast + avocado + Greek yogurt 150g (45g protein)
@@ -1093,16 +1114,15 @@ Each day includes:
 - ☐ Fish Oil: 3g with lunch
 - ☐ Magnesium: 400mg before bed
 
-**Today's Focus:** Enjoy the long cardio. Full mobility after = faster recovery.
+**Today's Focus:** Big recovery day. Cardio + knee work + full mobility = set up for the week.
 
 ---
 
-#### Day 7 (Sunday) - Rest & Recovery
+#### Day 7 (Sunday) - Complete Rest
 
-**Exercise Checklist:**
-- ☐ Complete rest from training
-- ☐ Optional: 20-30 min easy walk
-- ☐ Light stretching if desired
+**NO EXERCISE TODAY**
+
+This is your complete rest day. No training, no cardio, no structured exercise.
 
 **Nutrition Checklist (205g protein - rest day):**
 - ☐ 5:30 Breakfast: 4 eggs + 2 toast + avocado + Greek yogurt 150g (43g protein)
@@ -1118,7 +1138,7 @@ Each day includes:
 - ☐ Fish Oil: 3g with lunch
 - ☐ Magnesium: 400mg before bed
 
-**Today's Focus:** REST. Sleep 8+ hours tonight. Muscles grow during rest.
+**Today's Focus:** COMPLETE REST. No exercise. Sleep 8+ hours. Muscles grow during rest.
 
 ---
 
@@ -1126,13 +1146,13 @@ Each day includes:
 
 | Day | Workout | Protein Target | Completed |
 |-----|---------|----------------|-----------|
-| Mon | Chest & Triceps | 175g | ☐ |
-| Tue | Cardio + Mobility | 175g | ☐ |
-| Wed | Back & Biceps | 175g | ☐ |
-| Thu | Cardio + Mobility | 175g | ☐ |
-| Fri | Shoulders & Arms | 175g | ☐ |
-| Sat | Long Cardio + Full Mobility | 175g + carbs | ☐ |
-| Sun | Rest | 175g | ☐ |
+| Mon | Chest & Triceps | 205g | ☐ |
+| Tue | Cardio + Mobility | 205g + carbs | ☐ |
+| Wed | Back & Biceps | 205g | ☐ |
+| Thu | Cardio + Mobility | 205g + carbs | ☐ |
+| Fri | Shoulders & Arms | 205g | ☐ |
+| Sat | Long Cardio + Knee Strengthening + Mobility | 205g + carbs | ☐ |
+| Sun | **Complete Rest - No Exercise** | 205g | ☐ |
 
 **Week 1 Checklist:**
 - ☐ Completed all 3 upper body workouts
@@ -1496,41 +1516,44 @@ Each day includes:
 
 ## 16-Week Quick Reference Calendar
 
+*Saturday = Long Cardio + Knee Strengthening + Full Mobility*
+*Sunday = Complete Rest (No Exercise)*
+
 ### Phase 1: Foundation (Weeks 1-4)
 
 | Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |------|-----|-----|-----|-----|-----|-----|-----|
-| 1 | Chest/Tri | Cardio | Back/Bi | Cardio | Shoulders | Long Cardio | Rest |
-| 2 | Chest/Tri | Cardio | Back/Bi | Cardio | Shoulders | Long Cardio | Rest |
-| 3 | Chest/Tri | Cardio | Back/Bi | Cardio | Shoulders | Long Cardio | Rest |
-| 4 | TEST | Cardio | TEST | Cardio | TEST | Long Cardio | PHOTOS |
+| 1 | Chest/Tri | Cardio | Back/Bi | Cardio | Shoulders | Cardio+Knees | OFF |
+| 2 | Chest/Tri | Cardio | Back/Bi | Cardio | Shoulders | Cardio+Knees | OFF |
+| 3 | Chest/Tri | Cardio | Back/Bi | Cardio | Shoulders | Cardio+Knees | OFF |
+| 4 | TEST | Cardio | TEST | Cardio | TEST | Cardio+Knees | PHOTOS |
 
 ### Phase 2: Volume (Weeks 5-8)
 
 | Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |------|-----|-----|-----|-----|-----|-----|-----|
-| 5 | Chest/Tri+ | Cardio | Back/Bi+ | Cardio | Shoulders+ | Long Cardio | Rest |
-| 6 | Chest/Tri+ | Cardio | Back/Bi+ | Cardio | Shoulders+ | Long Cardio | Rest |
-| 7 | Chest/Tri+ | Cardio | Back/Bi+ | Cardio | Shoulders+ | Long Cardio | Rest |
-| 8 | TEST | Cardio | TEST | Cardio | TEST | Long Cardio | PHOTOS |
+| 5 | Chest/Tri+ | Cardio | Back/Bi+ | Cardio | Shoulders+ | Cardio+Knees | OFF |
+| 6 | Chest/Tri+ | Cardio | Back/Bi+ | Cardio | Shoulders+ | Cardio+Knees | OFF |
+| 7 | Chest/Tri+ | Cardio | Back/Bi+ | Cardio | Shoulders+ | Cardio+Knees | OFF |
+| 8 | TEST | Cardio | TEST | Cardio | TEST | Cardio+Knees | PHOTOS |
 
 ### Phase 3: Intensity (Weeks 9-12)
 
 | Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |------|-----|-----|-----|-----|-----|-----|-----|
-| 9 | Drop Sets | Cardio | Slow Neg | Cardio | Pause Reps | Long Cardio | Rest |
-| 10 | Supersets | Cardio | Supersets | Cardio | Supersets | Long Cardio | Rest |
-| 11 | Combined | Cardio | Combined | Cardio | Combined | Long Cardio | Rest |
-| 12 | TEST | Cardio | TEST | Cardio | TEST | Long Cardio | PHOTOS |
+| 9 | Drop Sets | Cardio | Slow Neg | Cardio | Pause Reps | Cardio+Knees | OFF |
+| 10 | Supersets | Cardio | Supersets | Cardio | Supersets | Cardio+Knees | OFF |
+| 11 | Combined | Cardio | Combined | Cardio | Combined | Cardio+Knees | OFF |
+| 12 | TEST | Cardio | TEST | Cardio | TEST | Cardio+Knees | PHOTOS |
 
 ### Phase 4: Advanced (Weeks 13-16)
 
 | Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |------|-----|-----|-----|-----|-----|-----|-----|
-| 13 | Pre-exhaust | Cardio | Pre-exhaust | Cardio | Pre-exhaust | Long Cardio | Rest |
-| 14 | Rest-Pause | Cardio | Rest-Pause | Cardio | Rest-Pause | Long Cardio | Rest |
-| 15 | Giant Sets | Cardio | Giant Sets | Cardio | Giant Sets | Long Cardio | Rest |
-| 16 | FINAL TEST | Cardio | FINAL TEST | Cardio | FINAL TEST | Long Cardio | FINAL |
+| 13 | Pre-exhaust | Cardio | Pre-exhaust | Cardio | Pre-exhaust | Cardio+Knees | OFF |
+| 14 | Rest-Pause | Cardio | Rest-Pause | Cardio | Rest-Pause | Cardio+Knees | OFF |
+| 15 | Giant Sets | Cardio | Giant Sets | Cardio | Giant Sets | Cardio+Knees | OFF |
+| 16 | FINAL TEST | Cardio | FINAL TEST | Cardio | FINAL TEST | Cardio+Knees | FINAL |
 
 ---
 
