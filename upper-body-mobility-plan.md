@@ -34,17 +34,19 @@
 
 ### Your Sample Daily Meal Plan (175g protein)
 
+*Eating window: 5:30 - 18:00 (12.5 hours)*
+
 | Meal | Time | Food | Protein | Carbs | Calories |
 |------|------|------|---------|-------|----------|
-| **Breakfast** | 7:00 | 4 eggs scrambled + 2 toast + avocado | 28g | 40g | 550 |
-| **Snack 1** | 10:00 | Greek yogurt (250g) + handful nuts | 25g | 20g | 350 |
-| **Lunch** | 13:00 | Chicken breast (200g) + rice (150g) + vegetables | 50g | 65g | 650 |
-| **Post-Workout** | 16:30 | Whey shake (1.5 scoops) + banana + oats | 38g | 60g | 450 |
-| **Dinner** | 19:00 | Salmon (180g) + potatoes (200g) + salad | 40g | 50g | 600 |
-| **Evening** | 21:00 | Cottage cheese (200g) + berries | 24g | 15g | 250 |
-| **Creatine** | Post-workout | 5g with shake | - | - | - |
-| **TOTAL** | | | **205g** | **250g** | **2,850** |
+| **Breakfast** | 5:30 | 4 eggs scrambled + 2 toast + avocado + Greek yogurt (150g) | 43g | 50g | 750 |
+| **Mid-Morning** | 9:00 | Whey shake (1 scoop) + banana + handful nuts | 30g | 35g | 400 |
+| **Lunch** | 12:00 | Chicken breast (200g) + rice (200g) + vegetables | 50g | 80g | 700 |
+| **Afternoon** | 15:00 | Greek yogurt (150g) + nuts + fruit | 18g | 25g | 300 |
+| **Dinner** | 17:30 | Salmon (200g) + potatoes (250g) + salad + cottage cheese (150g) | 64g | 60g | 850 |
+| **Creatine** | With any meal | 5g | - | - | - |
+| **TOTAL** | | | **205g** | **250g** | **3,000** |
 
+*On training days: Have your shake immediately post-workout instead of mid-morning*
 *Add extra carbs (rice, bread, fruit) on cardio days to reach 3,100+ kcal*
 
 ## Goals
@@ -734,17 +736,16 @@ Each day includes:
 - ☐ Tricep Kickbacks: 3 sets × 12-15 @ 3kg (45s rest)
 - ☐ Close-Grip Push-Ups: 2 sets × max reps
 
-**Nutrition Checklist (175g protein target):**
-- ☐ Breakfast: 4 eggs + 2 toast + avocado (28g protein)
-- ☐ Snack: Greek yogurt 250g + nuts (25g protein)
-- ☐ Lunch: Chicken 200g + rice 150g + veg (50g protein)
-- ☐ Post-workout shake: 1.5 scoops whey + banana (38g protein)
-- ☐ Dinner: Fish/meat 180g + potatoes + salad (40g protein)
-- ☐ Evening: Cottage cheese 200g (24g protein)
+**Nutrition Checklist (205g protein target):**
+- ☐ 5:30 Breakfast: 4 eggs + 2 toast + avocado + Greek yogurt 150g (43g protein)
+- ☐ 9:00 Mid-morning: Whey shake 1 scoop + banana + nuts (30g protein)
+- ☐ 12:00 Lunch: Chicken 200g + rice 200g + veg (50g protein)
+- ☐ 15:00 Afternoon: Greek yogurt 150g + nuts + fruit (18g protein)
+- ☐ 17:30 Dinner: Fish/meat 200g + potatoes 250g + salad + cottage cheese 150g (64g protein)
 - ☐ Water: 4 liters throughout day
 
 **Supplements:**
-- ☐ Creatine: 5g with post-workout shake
+- ☐ Creatine: 5g with breakfast or post-workout
 - ☐ Vitamin D3: 3000 IU with breakfast
 - ☐ Fish Oil: 3g with lunch
 - ☐ Magnesium: 400mg before bed
@@ -765,19 +766,18 @@ Each day includes:
   - ☐ Cat-cow (2 min)
   - ☐ Doorway chest stretch (1 min each side)
 
-**Nutrition Checklist (175g protein target):**
-- ☐ Breakfast: 4 eggs + 2 toast + avocado (28g protein)
-- ☐ Snack: Greek yogurt 250g + nuts (25g protein)
-- ☐ Lunch: Chicken 200g + rice 150g + veg (50g protein)
-- ☐ Pre-cardio snack: Banana + handful nuts
-- ☐ Post-cardio: Whey shake 1 scoop (25g protein)
-- ☐ Dinner: Salmon 180g + potatoes + veg (40g protein)
-- ☐ Evening: Cottage cheese 150g (18g protein)
-- ☐ Extra carbs today: +200 kcal (extra rice/bread/fruit)
+**Nutrition Checklist (205g protein target + extra carbs for cardio):**
+- ☐ 5:30 Breakfast: 4 eggs + 2 toast + avocado + Greek yogurt 150g (43g protein)
+- ☐ 9:00 Pre-cardio: Banana + oats + nuts (fuel for cardio)
+- ☐ Post-cardio: Whey shake 1 scoop + banana (30g protein)
+- ☐ 12:00 Lunch: Chicken 200g + rice 250g + veg (50g protein)
+- ☐ 15:00 Afternoon: Greek yogurt 150g + nuts + fruit (18g protein)
+- ☐ 17:30 Dinner: Salmon 200g + potatoes 250g + salad + cottage cheese 150g (64g protein)
+- ☐ Extra carbs today: +200 kcal (larger portions rice/potatoes)
 - ☐ Water: 4.5 liters (extra for cardio)
 
 **Supplements:**
-- ☐ Creatine: 5g with breakfast (no workout today)
+- ☐ Creatine: 5g with breakfast
 - ☐ Vitamin D3: 3000 IU with breakfast
 - ☐ Fish Oil: 3g with lunch
 - ☐ Magnesium: 400mg before bed
@@ -799,17 +799,16 @@ Each day includes:
 - ☐ Concentration Curls: 3 sets × 12 each @ 3kg (45s rest)
 - ☐ Incline Curls (floor): 3 sets × 12-15 @ 3kg (45s rest)
 
-**Nutrition Checklist (175g protein target):**
-- ☐ Breakfast: 4 eggs + 2 toast + avocado (28g protein)
-- ☐ Snack: Greek yogurt 250g + nuts (25g protein)
-- ☐ Lunch: Chicken 200g + rice 150g + veg (50g protein)
-- ☐ Post-workout shake: 1.5 scoops whey + banana (38g protein)
-- ☐ Dinner: Beef/fish 180g + potatoes + salad (40g protein)
-- ☐ Evening: Cottage cheese 200g (24g protein)
+**Nutrition Checklist (205g protein target):**
+- ☐ 5:30 Breakfast: 4 eggs + 2 toast + avocado + Greek yogurt 150g (43g protein)
+- ☐ 9:00 Mid-morning: Whey shake 1 scoop + banana + nuts (30g protein)
+- ☐ 12:00 Lunch: Chicken 200g + rice 200g + veg (50g protein)
+- ☐ 15:00 Post-workout: Whey shake 0.5 scoop + fruit (18g protein)
+- ☐ 17:30 Dinner: Beef/fish 200g + potatoes 250g + salad + cottage cheese 150g (64g protein)
 - ☐ Water: 4 liters throughout day
 
 **Supplements:**
-- ☐ Creatine: 5g with post-workout shake
+- ☐ Creatine: 5g with breakfast or post-workout
 - ☐ Vitamin D3: 3000 IU with breakfast
 - ☐ Fish Oil: 3g with lunch
 - ☐ Magnesium: 400mg before bed
@@ -830,15 +829,14 @@ Each day includes:
   - ☐ Cat-cow (2 min)
   - ☐ Doorway chest stretch (1 min each side)
 
-**Nutrition Checklist (175g protein target):**
-- ☐ Breakfast: 4 eggs + 2 toast + avocado (28g protein)
-- ☐ Snack: Greek yogurt 250g + nuts (25g protein)
-- ☐ Lunch: Chicken 200g + rice 150g + veg (50g protein)
-- ☐ Pre-cardio snack: Banana + handful nuts
-- ☐ Post-cardio: Whey shake 1 scoop (25g protein)
-- ☐ Dinner: Fish 180g + rice + veg (40g protein)
-- ☐ Evening: Cottage cheese 150g (18g protein)
-- ☐ Extra carbs today: +200 kcal
+**Nutrition Checklist (205g protein target + extra carbs for cardio):**
+- ☐ 5:30 Breakfast: 4 eggs + 2 toast + avocado + Greek yogurt 150g (43g protein)
+- ☐ 9:00 Pre-cardio: Banana + oats + nuts (fuel for cardio)
+- ☐ Post-cardio: Whey shake 1 scoop + banana (30g protein)
+- ☐ 12:00 Lunch: Chicken 200g + rice 250g + veg (50g protein)
+- ☐ 15:00 Afternoon: Greek yogurt 150g + nuts + fruit (18g protein)
+- ☐ 17:30 Dinner: Fish 200g + potatoes 250g + salad + cottage cheese 150g (64g protein)
+- ☐ Extra carbs today: +200 kcal (larger portions)
 - ☐ Water: 4.5 liters
 
 **Supplements:**
@@ -864,17 +862,16 @@ Each day includes:
 - ☐ 21s Bicep Curls: 2 sets × 21 @ 3kg (90s rest)
 - ☐ Chair Dips: 3 sets × 12-15 (60s rest)
 
-**Nutrition Checklist (175g protein target):**
-- ☐ Breakfast: 4 eggs + 2 toast + avocado (28g protein)
-- ☐ Snack: Greek yogurt 250g + nuts (25g protein)
-- ☐ Lunch: Chicken 200g + rice 150g + veg (50g protein)
-- ☐ Post-workout shake: 1.5 scoops whey + banana (38g protein)
-- ☐ Dinner: Steak/salmon 180g + potatoes + salad (40g protein)
-- ☐ Evening: Cottage cheese 200g (24g protein)
+**Nutrition Checklist (205g protein target):**
+- ☐ 5:30 Breakfast: 4 eggs + 2 toast + avocado + Greek yogurt 150g (43g protein)
+- ☐ 9:00 Mid-morning: Whey shake 1 scoop + banana + nuts (30g protein)
+- ☐ 12:00 Lunch: Chicken 200g + rice 200g + veg (50g protein)
+- ☐ 15:00 Post-workout: Whey shake 0.5 scoop + fruit (18g protein)
+- ☐ 17:30 Dinner: Steak/salmon 200g + potatoes 250g + salad + cottage cheese 150g (64g protein)
 - ☐ Water: 4 liters throughout day
 
 **Supplements:**
-- ☐ Creatine: 5g with post-workout shake
+- ☐ Creatine: 5g with breakfast or post-workout
 - ☐ Vitamin D3: 3000 IU with breakfast
 - ☐ Fish Oil: 3g with lunch
 - ☐ Magnesium: 400mg before bed
@@ -901,14 +898,14 @@ Each day includes:
   - ☐ Puppy pose (60s)
   - ☐ Wall angels (15 reps)
 
-**Nutrition Checklist (175g protein + extra carbs):**
-- ☐ Breakfast: 4 eggs + 3 toast + avocado (30g protein)
-- ☐ Pre-ride snack: Banana + oats
+**Nutrition Checklist (205g protein + extra carbs for long cardio):**
+- ☐ 5:30 Breakfast: 4 eggs + 3 toast + avocado + Greek yogurt 150g (45g protein)
+- ☐ Pre-ride: Banana + oats + honey (fuel for ride)
 - ☐ During ride: Water + electrolytes
-- ☐ Post-ride: Whey shake + large banana + oats (35g protein)
-- ☐ Lunch: Chicken 200g + pasta 200g + veg (50g protein)
-- ☐ Dinner: Fish 180g + rice + veg (40g protein)
-- ☐ Evening: Greek yogurt 200g (20g protein)
+- ☐ Post-ride: Whey shake 1.5 scoops + large banana + oats (40g protein)
+- ☐ 12:00 Lunch: Chicken 200g + pasta 250g + veg (50g protein)
+- ☐ 15:00 Afternoon: Greek yogurt 150g + nuts + fruit (18g protein)
+- ☐ 17:30 Dinner: Fish 200g + rice 200g + salad + cottage cheese 100g (52g protein)
 - ☐ Extra carbs today: +400 kcal (fuel the long session)
 - ☐ Water: 5 liters
 
@@ -929,13 +926,12 @@ Each day includes:
 - ☐ Optional: 20-30 min easy walk
 - ☐ Light stretching if desired
 
-**Nutrition Checklist (175g protein - maintenance):**
-- ☐ Breakfast: 4 eggs + 2 toast + avocado (28g protein)
-- ☐ Snack: Greek yogurt 250g + nuts (25g protein)
-- ☐ Lunch: Chicken/fish 180g + rice + veg (45g protein)
-- ☐ Afternoon: Fruit + handful nuts
-- ☐ Dinner: Beef/salmon 180g + potatoes + salad (40g protein)
-- ☐ Evening: Cottage cheese 200g (24g protein)
+**Nutrition Checklist (205g protein - rest day):**
+- ☐ 5:30 Breakfast: 4 eggs + 2 toast + avocado + Greek yogurt 150g (43g protein)
+- ☐ 9:00 Mid-morning: Whey shake 1 scoop + banana + nuts (30g protein)
+- ☐ 12:00 Lunch: Chicken/fish 200g + rice 200g + veg (50g protein)
+- ☐ 15:00 Afternoon: Greek yogurt 150g + nuts + fruit (18g protein)
+- ☐ 17:30 Dinner: Beef/salmon 200g + potatoes 250g + salad + cottage cheese 150g (64g protein)
 - ☐ Water: 3.5 liters
 
 **Supplements:**
@@ -1362,17 +1358,16 @@ Each day includes:
 
 ## Daily Nutrition Quick Reference (93kg)
 
-**Every Single Day:**
+**Eating Window: 5:30 - 18:00**
 
-| Meal | What | Protein |
-|------|------|---------|
-| Breakfast | 4 eggs + 2 toast + avocado | 28g |
-| Snack | Greek yogurt 250g + nuts | 25g |
-| Lunch | Chicken/fish 200g + rice/potato + veg | 50g |
-| Post-workout/Afternoon | Whey shake 1.5 scoops + banana | 38g |
-| Dinner | Meat/fish 180g + carbs + veg | 40g |
-| Evening | Cottage cheese 200g | 24g |
-| **TOTAL** | | **205g** |
+| Time | Meal | What | Protein |
+|------|------|------|---------|
+| 5:30 | Breakfast | 4 eggs + 2 toast + avocado + Greek yogurt 150g | 43g |
+| 9:00 | Mid-morning | Whey shake 1 scoop + banana + nuts | 30g |
+| 12:00 | Lunch | Chicken/fish 200g + rice 200g + veg | 50g |
+| 15:00 | Afternoon | Greek yogurt 150g + nuts + fruit | 18g |
+| 17:30 | Dinner | Meat/fish 200g + potatoes 250g + salad + cottage cheese 150g | 64g |
+| | **TOTAL** | | **205g** |
 
 **Every Single Day - Supplements:**
 - ☐ Creatine: 5g
